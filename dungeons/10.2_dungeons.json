@@ -1,0 +1,36 @@
+{
+    "dungeons": [
+        {
+            "name": "Uldaman: Legacy of Tyr",
+            "timer": 35
+        },
+        {
+            "name": "Neltharus",
+            "timer": 33
+        },
+        {
+            "name": "Brackenhide Hollow",
+            "timer": 35
+        },
+        {
+            "name": "Halls of infusion",
+            "timer": 35
+        },
+        {
+            "name": "The Vortex Pinnacle",
+            "timer": 30
+        },
+        {
+            "name": "Freehold",
+            "timer": 30
+        },
+        {
+            "name": "The Underrot",
+            "timer": 30
+        },
+        {
+            "name": "Neltharion's Lair",
+            "timer": 33
+        }
+    ]
+}
